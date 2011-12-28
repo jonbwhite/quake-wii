@@ -1,0 +1,7 @@
+Dependencies:
+wiiuse
+
+Relevent files:
+code/sdl/wiiuse.h
+code/sdl/sdl_input.c
+
